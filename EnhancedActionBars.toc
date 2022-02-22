@@ -1,0 +1,12 @@
+##Interface: 90200
+##Titel: EnhancedActionBars
+##Author: Slothpal / Blackrock
+##Version: 0.1
+##SavedVariables: EDABDB
+#OptionalDeps: LibDualSpec-1.0
+#@no-lib-strip@
+libs\LibDualSpec-1.0\LibDualSpec-1.0.lua
+#@end-no-lib-strip@
+libs.xml
+EnhancedActionBarsGUI.lua
+EnhancedActionBars.lua
